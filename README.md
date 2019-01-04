@@ -134,11 +134,11 @@ Prendre rendez-vous avec votre bibliothécaire disciplinaire à ce sujet.
 
 « Care, Handling and Storage of Works on Paper - Collections Care ». Web page. Library of Congress. Consulté le 4 janvier 2019. http://www.loc.gov/preservation/care/paper.html.
 
-« Hors des lieux communs » Les 3 règles d’or pour nommer un fichier ». Consulté le 4 janvier 2019. http://ptaff.ca/blogue/2008/06/29/les_3_rgles_dor_pour_nommer_un_fichier/.
+« Comment puis-je améliorer les conditions de conservation de mes documents? » Archives Passe-Mémoire , 2010. http://www.archivespassememoire.org/index.php?option=com_content&view=article&id=81&Itemid=60.
 
 « Personal Digital Archiving | Digital Preservation ». Webpage. Library of Congress. Consulté le 4 janvier 2019. http://www.digitalpreservation.gov/personalarchiving/index.html.
 
-« Comment puis-je améliorer les conditions de conservation de mes documents? » Archives Passe-Mémoire , 2010. http://www.archivespassememoire.org/index.php?option=com_content&view=article&id=81&Itemid=60.
+Tremblay, Miguel. « Hors des lieux communs » Les 3 règles d’or pour nommer un fichier ». Consulté le 4 janvier 2019. http://ptaff.ca/blogue/2008/06/29/les_3_rgles_dor_pour_nommer_un_fichier/.
 
 Vitali-Rosati, Marcello. « Nomenclature d’un fichier ». BlogPost. Culture numérique (blog), 26 mars 2015. http://blog.sens-public.org/marcellovitalirosati/nomenclature-dun-fichier/.
 
