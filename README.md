@@ -85,3 +85,60 @@
   - A B C ... Y Z
   - 0 1 2 ... 8 9
   - . _ -
+
+
+## Bonnes pratiques de conservation
+
+### Choisir si vous adoptez des formats de fichiers ouverts
+
+Exemples : PDF/A (archive), TXT, TEX, HTML, XML, ODF, RTF, EPUB, SVG, PNG ...
+
+### Concevoir un plan de gestion de vos données de recherche
+
+Prendre rendez-vous avec votre bibliothécaire disciplinaire à ce sujet.
+
+### Si c'est important : imprimez-le et conservez-le
+
+#### Le support électronique est instable et fragile
+
+- Ne faites pas confiance aux disques durs, ni aux CD gravés ou aux DVD gravés, ni aux clés USB au-delà de **quelques années**. 
+- Si vous avez des fichiers électroniques, déplacez-les d'un support à un autre tous les 3 ans.
+- Disques électroniques :
+  - Ne les laissez pas inutilisés plus d'un an.
+  - Protégez-les de l'humidité, de la chaleur et des chocs.
+- Les disques SSD (smartphones, laptop récents) :
+  - Ne devraient pas rester sans l'alimentation de leur batterie pendant longtemps.
+- Les CD/DVD gravés : 
+  - Protégez-les de l'humidité, de la chaleur, de la lumière, des rayures, de certains feutres marqueurs, des étiquettes collées et des doigts.
+  - Préférez les disques argentés ou dorés (pas les bleutés)
+  - Préférez les boitiers (pas les pochettes souples)
+  - Gravez en vitesse normale et vérifiez la gravure
+  
+#### Imprimez les documents importants
+
+  - Une photocopie imprimée sur du [papier non acide](https://fr.wikipedia.org/wiki/Papier_non_acide) peut durer au moins 40 ans (à l'abri de la lumière, de humidité, loin de tout plastique PVC, et sans colle)
+  - N'oubliez pas de sélectionner et d'imprimer vos photos de mariage, de naissance, etc., mais aussi vos poèmes de jeunesse, vos articles, et tout ce que vous avez rédigé et qui est important pour vous.
+  
+#### Entreprosage durable
+
+- Local à température constante
+- Peu humide
+- Sur l'avant dernière étagère du haut de votre bibliothèque
+- Dans : 
+  - une boîte en carton 
+  - ou mieux dans une boite en plastique Coroplast (mais surtout pas en PVC)
+  - ou dans des grandes pochettes Ziplock sans PVC
+- Sachets de gel de silice (pour enlever l'humidité dans des contenants fermés)
+
+### Bibliographie
+
+« Care, Handling and Storage of Works on Paper - Collections Care ». Web page. Library of Congress. Consulté le 4 janvier 2019. http://www.loc.gov/preservation/care/paper.html.
+
+« Hors des lieux communs » Les 3 règles d’or pour nommer un fichier ». Consulté le 4 janvier 2019. http://ptaff.ca/blogue/2008/06/29/les_3_rgles_dor_pour_nommer_un_fichier/.
+
+« Personal Digital Archiving | Digital Preservation ». Webpage. Library of Congress. Consulté le 4 janvier 2019. http://www.digitalpreservation.gov/personalarchiving/index.html.
+
+« Comment puis-je améliorer les conditions de conservation de mes documents? » Archives Passe-Mémoire , 2010. http://www.archivespassememoire.org/index.php?option=com_content&view=article&id=81&Itemid=60.
+
+Vitali-Rosati, Marcello. « Nomenclature d’un fichier ». BlogPost. Culture numérique (blog), 26 mars 2015. http://blog.sens-public.org/marcellovitalirosati/nomenclature-dun-fichier/.
+
