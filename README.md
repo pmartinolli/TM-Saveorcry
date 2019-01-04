@@ -1,7 +1,7 @@
 ## Bonnes pratiques de sauvegarde pour sa recherche
 ## Best practices for backing up research documents
 
-[Affiche en français, PDF](https://github.com/pmartinolli/TM-Saveorcry/blob/master/files/TM-Saveorcry-1.0.fr.pdf)
+[Affiche en français, PDF](https://github.com/pmartinolli/TM-Saveorcry/blob/master/files/TM-Saveorcry-v1.0.fr.pdf)
 
 * Author / Auteur : Pascal Martinolli
 
