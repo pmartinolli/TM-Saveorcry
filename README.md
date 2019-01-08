@@ -1,13 +1,13 @@
 ## Bonnes pratiques de sauvegarde pour sa recherche
 ## Best practices for backing up research documents
 
-[Affiche en français, PDF](https://github.com/pmartinolli/TM-Saveorcry/blob/master/files/TM-Saveorcry-v1.0.fr.pdf)
+[Affiche en français, PDF](https://github.com/pmartinolli/TM-Saveorcry/blob/master/files/TM-Saveorcry-v1.1.fr.pdf)
 
 * Author / Auteur : Pascal Martinolli
 
 * Created / Créé le : 2019-01-04
 
-* Most recent version / Dernière version : 1.0
+* Most recent version / Dernière version : 1.1
 
 * Original format / format de fichier : MS Publisher 2016 (Proprietary/Propriétaire)
 
@@ -73,7 +73,7 @@
 
 - Conserver toutes les anciennes copies des fichiers et des dossiers que vous créez.
 - S'il y a beaucoup de fichiers, vous pouvez les déplacer dans un sous-dossier Archives
-- Vous pouvez aussi compresser tout le dossier maître dans un fichier ZIP (ou RAR) numéroté avec la date du jour.
+- Vous pouvez aussi compresser tout le dossier maître dans un fichier ZIP (ou RAR) numéroté avec la date du jour. Utilisez un logiciel plus avancé pour gérer certains problèmes de fichiers accentués ou de fichiers trop longs.
 
 #### Nommer les fichiers
 
@@ -106,9 +106,9 @@ Prendre rendez-vous avec votre bibliothécaire disciplinaire à ce sujet.
 - Disques électroniques :
   - Ne les laissez pas inutilisés plus d'un an.
   - Protégez-les de l'humidité, de la chaleur et des chocs.
-- Les disques SSD (smartphones, laptop récents) :
-  - Ne devraient pas rester sans l'alimentation de leur batterie pendant longtemps.
+  - Les disques SSD (smartphones, laptop récents) : Ne devraient pas rester sans l'alimentation de leur batterie pendant longtemps.
 - Les CD/DVD gravés : 
+  - Gravez vos données sur un CD ou DVD de temps en temps.
   - Protégez-les de l'humidité, de la chaleur, de la lumière, des rayures, de certains feutres marqueurs, des étiquettes collées et des doigts.
   - Préférez les disques argentés ou dorés (pas les bleutés)
   - Préférez les boitiers (pas les pochettes souples)
@@ -117,7 +117,7 @@ Prendre rendez-vous avec votre bibliothécaire disciplinaire à ce sujet.
 #### Imprimez les documents importants
 
   - Une photocopie imprimée sur du [papier non acide](https://fr.wikipedia.org/wiki/Papier_non_acide) peut durer au moins 40 ans (à l'abri de la lumière, de humidité, loin de tout plastique PVC, et sans colle)
-  - N'oubliez pas de sélectionner et d'imprimer vos photos de mariage, de naissance, etc., mais aussi vos poèmes de jeunesse, vos articles, et tout ce que vous avez rédigé et qui est important pour vous.
+  - N'oubliez pas de sélectionner et d'imprimer vos feuilles de paie, documents d'assurance, photos de mariage, de naissance, vos poèmes de jeunesse, vos articles, et tout ce que vous avez rédigé et qui est important pour vous.
   
 #### Entreprosage durable
 
