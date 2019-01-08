@@ -130,6 +130,14 @@ Prendre rendez-vous avec votre bibliothécaire disciplinaire à ce sujet.
   - ou dans des grandes pochettes Ziplock sans PVC
 - Sachets de gel de silice (pour enlever l'humidité dans des contenants fermés)
 
+
+### Cette activité est en lien avec les activités de :
+- [Gestion d'identité et de profil en ligne](https://github.com/pmartinolli/TM-SchoProMa)
+- [eCockpit bureautique du chercheur](https://github.com/pmartinolli/TM-SchoCockpit)
+- Gestion de ses bases de connaissances (à venir)
+- Tenir un journal de bord de sa recherche (à venir)
+
+
 ### Bibliographie
 
 « Care, Handling and Storage of Works on Paper - Collections Care ». Web page. Library of Congress. Consulté le 4 janvier 2019. http://www.loc.gov/preservation/care/paper.html.
