@@ -31,6 +31,7 @@
 
 - Déposer le dossier maître dans le répertoire Documents de votre ordinateur (PC, Mac ou Linux).
 - [Déplacer](https://www.zotero.org/support/fr/zotero_data) votre bibliothèque Zotero dans un sous-dossier.
+- Déposer toutes vos données de recherche dans un sous-dossier (voire une arborescence de sous-dossiers) : images, données numériques, code source, tableaux, etc.
 
 ### 2 - Faire des sauvegardes régulières de vos données dans un infonuage
 
@@ -47,11 +48,11 @@
 - Y déposer une copie du dossier maître numéroté avec la date du jour
 - Faire cette opération une fois par semaine (se mettre une alerte de calendrier le vendredi après-midi par exemple).
 
-### 3 - Faire une sauvegarde de sécurité de temps en temps
+### 3 - Faire une sauvegarde de sécurité dans un 3ème endroit de temps en temps
 
 #### Pourquoi ?
 
-- Dans le cas où OneDrive connaît un problème.
+- Dans le cas où OneDrive rencontrerait un problème.
 - Parce qu'il faudrait toujours avoir un plan B.
 
 #### Comment ?
@@ -71,9 +72,16 @@
 
 #### Conserver les anciennes copies
 
-- Conserver toutes les anciennes copies des fichiers et des dossiers que vous créez.
-- S'il y a beaucoup de fichiers, vous pouvez les déplacer dans un sous-dossier Archives
-- Vous pouvez aussi compresser tout le dossier maître dans un fichier ZIP (ou RAR) numéroté avec la date du jour. Utilisez un logiciel plus avancé pour gérer certains problèmes de fichiers accentués ou de fichiers trop longs.
+- Conserver toutes les anciennes copies des fichiers/dossiers que vous créez.
+- S'il y a beaucoup de fichiers, vous pouvez les déplacer dans un sous-dossier Archives.
+
+#### Compresser
+
+- Vous pouvez aussi compresser tout le dossier maître dans un fichier ZIP (ou RAR) numéroté avec la date du jour. 
+- Utilisez un logiciel plus avancé pour gérer certains problèmes de fichiers accentués ou de fichiers trop longs.
+- C'est l'équivalent de mettre des choses dans des boîtes : 
+    - moins accessible qu'un livre sur une étagère;
+    - plus de masse de stockage sans s'y perdre.
 
 #### Nommer les fichiers
 
@@ -89,7 +97,7 @@
 
 ## Bonnes pratiques de conservation
 
-### Choisir si vous adoptez des formats de fichiers ouverts
+### Choisir si vous adoptez des formats de fichiers ouverts (très recommandé)
 
 Exemples : PDF/A (archive), TXT, TEX, HTML, XML, ODF, RTF, EPUB, SVG, PNG ...
 
