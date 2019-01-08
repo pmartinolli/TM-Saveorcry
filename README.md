@@ -59,7 +59,7 @@
 
 - Déposer une autre copie du dossier maître numéroté avec la date du jour dans :
   - Un autre infonuage (Google Drive, Dropbox, etc.)
-  - Une clé USB ou un disque externe que vous laissé dans votre laboratoire
+  - Une clé USB ou un disque externe que vous laissez dans votre laboratoire
   - Un serveur de fichier partagé de votre laboratoire
   - ... N'importe où mais pas chez vous, ni sur vous.
 - Faire cette opération une fois par trimestre ? une fois par mois ? (se mettre une alerte de calendrier).
