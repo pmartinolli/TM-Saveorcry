@@ -9,7 +9,7 @@
 
 * Most recent version / Dernière version : 1.1
 
-* Original format / format de fichier : MS Publisher 2016 (Proprietary/Propriétaire)
+* Original format / format de fichier : MS Publisher 2016 (Proprietary/Propriétaire), Libre Office 5 Draw (Open/ouvert)
 
 * License / Licence : CC-BY
 
