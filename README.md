@@ -1,21 +1,9 @@
 ## Bonnes pratiques de sauvegarde pour sa recherche
-## Best practices for backing up research documents
+Best practices for backing up research documents
 
 [Affiche en français, PDF](https://github.com/pmartinolli/TM-Saveorcry/blob/master/files/TM-Saveorcry-v1.1.fr.pdf)
 
-* Author / Auteur : Pascal Martinolli
 
-* Created / Créé le : 2019-01-04
-
-* Most recent version / Dernière version : 1.1
-
-* Original format / format de fichier : MS Publisher 2016 (Proprietary/Propriétaire), Libre Office 5 Draw (Open/ouvert)
-
-* License / Licence : CC-BY
-
-* Used by / Utilisé par  : [Séminaire PLU6058 Seminar](http://guides.bib.umontreal.ca/cours/1-PLU6058)
-
-* Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
 ## Principes d'une bonne méthode de sauvegarde de documents
 
@@ -146,7 +134,25 @@ Prendre rendez-vous avec votre bibliothécaire disciplinaire à ce sujet.
 - Tenir un journal de bord de sa recherche (à venir)
 
 
-### Bibliographie
+## Métadonnées
+
+* Author / Auteur : Pascal Martinolli
+
+* Created / Créé le : 2019-01-04
+
+* Most recent version / Dernière version : 1.1
+
+* Original format / format de fichier : MS Publisher 2016 (Proprietary/Propriétaire), Libre Office 5 Draw (Open/ouvert)
+
+* License / Licence : CC-BY
+
+* Used by / Utilisé par  : [Séminaire PLU6058 Seminar](http://guides.bib.umontreal.ca/cours/1-PLU6058)
+
+* Promoted / diffusé par : FBpro
+
+* Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
+
+## Bibliographie
 
 « Care, Handling and Storage of Works on Paper - Collections Care ». Web page. Library of Congress. Consulté le 4 janvier 2019. http://www.loc.gov/preservation/care/paper.html.
 
