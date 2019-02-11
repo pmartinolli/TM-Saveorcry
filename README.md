@@ -148,7 +148,7 @@ Prendre rendez-vous avec votre bibliothécaire disciplinaire à ce sujet.
 
 * Used by / Utilisé par  : [Séminaire PLU6058 Seminar](http://guides.bib.umontreal.ca/cours/1-PLU6058)
 
-* Promoted / diffusé par : FBpro
+* Promoted / diffusé par : FBpro, [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6496418175603793920/) 
 
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
