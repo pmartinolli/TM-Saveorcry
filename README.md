@@ -66,7 +66,7 @@ Best practices for backing up research documents
 #### Compresser
 
 - Vous pouvez aussi compresser tout le dossier maître dans un fichier ZIP (ou RAR) numéroté avec la date du jour. 
-- Utilisez un logiciel plus avancé pour gérer certains problèmes de fichiers accentués ou de fichiers trop longs.
+- Utilisez un logiciel plus avancé pour gérer certains problèmes de fichiers accentués ou de fichiers trop longs [7-zip](https://www.7-zip.org/) ou [WinRAR](https://www.rarlab.com).
 - C'est l'équivalent de mettre des choses dans des boîtes : 
     - moins accessible qu'un livre sur une étagère;
     - plus de masse de stockage sans s'y perdre.
