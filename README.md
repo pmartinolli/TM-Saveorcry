@@ -199,7 +199,7 @@ data is portable » (Phil Liblin, CEO Evernote)
 
 * Promoted / diffusé par : FBpro, [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6496418175603793920/) <<
 
-* Thanks to / Remerciements : Philippe Deschamps
+* Thanks to / Remerciements : Philippe Deschamps, Marie-Ève Ménard
 
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
