@@ -131,7 +131,25 @@ Prendre rendez-vous avec votre bibliothécaire disciplinaire à ce sujet.
 
   - Une photocopie imprimée sur du [papier non acide](https://fr.wikipedia.org/wiki/Papier_non_acide) peut durer au moins 40 ans (à l'abri de la lumière, de humidité, loin de tout plastique PVC, et sans colle)
   - N'oubliez pas de sélectionner et d'imprimer vos feuilles de paie, documents d'assurance, photos de mariage, de naissance, vos poèmes de jeunesse, vos articles, et tout ce que vous avez rédigé et qui a de la valeur pour vous.
-  
+
+##### Exemple de plan de sauvegarde
+
+* Identifier ce que je veux archiver :
+
+1. Ce que j'ai créé (texte, images, films montés, etc.) et qui entraînerait un choc émotionnel intense en cas de perte.
+2. Mes documents administratifs numérisés (taxes, paies,...). Les plus importants (paies, contrats, actes notariés,...) doivent aussi être imprimés.
+3. Ma correspondance (courriels) et ma liste de contacts.
+4. Ce que j'ai capturé ou téléchargé (photos, vidéos, bookmarks, références Zotero, captures Evernote, ebooks,...).
+5. Mes listes de musiques, de films, de livres,... (la plupart sont retrouvables facilement, alors une liste devrait suffire).
+
+* Sélectionner les plus importants/ les meilleurs
+
+* Organiser la sélection
+
+* Faire des copies sur des supports multiples, pérennes (papier si possible), à différents endroits
+
+* Gérer le contenu de temps en temps (vérifier)
+
 #### Entreprosage durable
 
 - Local à température constante
@@ -150,6 +168,17 @@ Prendre rendez-vous avec votre bibliothécaire disciplinaire à ce sujet.
 - [Thésaurus personnel pour collection de références bibliographiques](https://github.com/pmartinolli/TM-MyThesaurus)
 - Gestion de ses bases de connaissances (à venir)
 - Tenir un journal de bord de sa recherche (à venir)
+
+
+## Citations
+
+
+« You Are Responsible For Your Own Data. Three laws of data protection : your data is yours, your data is protected, your
+data is portable » (Phil Liblin, CEO Evernote)
+
+« Prendre soin de ses documents, c'est leur donner de la valeur. » (Pascal Martinolli, 2016)
+
+
 
 
 ## Métadonnées
