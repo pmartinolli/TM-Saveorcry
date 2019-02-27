@@ -1,4 +1,4 @@
-## Bonnes pratiques de sauvegarde pour sa recherche
+# Bonnes pratiques de sauvegarde pour sa recherche
 Best practices for backing up research documents
 
 [Affiche en français, PDF](https://github.com/pmartinolli/TM-Saveorcry/blob/master/files/TM-Saveorcry-v1.2.fr.pdf)
@@ -108,7 +108,9 @@ Exemples :
 
 ### Concevoir un plan de gestion de vos données de recherche
 
-Prendre rendez-vous avec votre bibliothécaire disciplinaire à ce sujet.
+Ce sont des [données issues](https://bib.umontreal.ca/gerer-diffuser/gestion-donnees-recherche) de l’observation, de l’expérimentation ou dérivées de sources existantes qui sont analysées en vue de produire ou de valider des résultats de recherche originaux.
+
+Prendre rendez-vous avec votre bibliothécaire disciplinaire pour en savoir plus à ce sujet.
 
 ### Si c'est important : imprimez-le et conservez-le
 
