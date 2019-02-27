@@ -1,7 +1,7 @@
 ## Bonnes pratiques de sauvegarde pour sa recherche
 Best practices for backing up research documents
 
-[Affiche en français, PDF](https://github.com/pmartinolli/TM-Saveorcry/blob/master/files/TM-Saveorcry-v1.1.fr.pdf)
+[Affiche en français, PDF](https://github.com/pmartinolli/TM-Saveorcry/blob/master/files/TM-Saveorcry-v1.2.fr.pdf)
 
 
 
@@ -32,8 +32,8 @@ Best practices for backing up research documents
 #### Comment ?
 
 - Accéder à votre espace de stockage [OneDrive UdeM](https://o365.umontreal.ca)
-- Créer un dossier Sauvegardes
-- Y déposer une copie du dossier maître numéroté avec la date du jour
+- Créer un dossier nommé *Sauvegardes*
+- Verser une copie du dossier maître, le renommer avec la date du jour (sous la forme AAAAMMMJJ)
 - Faire cette opération une fois par semaine (se mettre une alerte de calendrier le vendredi après-midi par exemple).
 
 ### 3 - Faire une sauvegarde de sécurité dans un 3ème endroit de temps en temps
@@ -65,11 +65,9 @@ Best practices for backing up research documents
 
 #### Compresser
 
-- Vous pouvez aussi compresser tout le dossier maître dans un fichier ZIP (ou RAR) numéroté avec la date du jour. 
-- Utilisez un logiciel plus avancé pour gérer certains problèmes de fichiers accentués ou de fichiers trop longs : [7-zip](https://www.7-zip.org/) ou [WinRAR](https://www.rarlab.com).
-- C'est l'équivalent de mettre des choses dans des boîtes : 
-    - moins accessible qu'un livre sur une étagère;
-    - plus de masse de stockage sans s'y perdre.
+- Vous pouvez aussi compresser tout le dossier maître dans un fichier ZIP (ou RAR) renommé avec la date du jour. 
+- Utilisez un logiciel plus avancé pour gérer certains problèmes de fichiers accentués ou de fichiers trop longs : [7-zip](https://www.7-zip.org/) ou [WinRAR](https://www.rarlab.com). L'avantage du format RAR est que si le fichier se corrompt, il est plus facile de récupérer le reste des fichiers compressés à l'intérieur. L'avantage du format ZIP c'est que c'est le plus populaire.
+- Compresser, c'est l'équivalent de mettre des choses dans des boîtes : les éléments dedans sont moins accessibles, mais ils sont rangés massivement tous ensemble au même endroit.
 
 #### Nommer les fichiers
 
@@ -82,12 +80,31 @@ Best practices for backing up research documents
   - 0 1 2 ... 8 9
   - . _ -
 
+Ne pas oublier d'écrire l'extension du fichier (ex: .docx, .pdf) et ne pas la masquer dans votre système d'exploitation.
+
+Choisir un nom qui traversera le temps et qui sera parlante.
 
 ## Bonnes pratiques de conservation
 
 ### Choisir si vous adoptez des formats de fichiers ouverts (très recommandé)
 
-Exemples : PDF/A (archive), TXT, TEX, HTML, XML, ODF, RTF, EPUB, SVG, PNG ...
+Un format ouvert est un format de document : 
+
+- plus perenne, 
+- plus compatible et plus portable entre différents systèmes ou programmes.
+
+Exemples : 
+
+* PDF/A (dit "PDF de qualité archive" : norme propriétaire mais ouverte et conçue pour un archivage à long terme, tous les PDF ne sont pas des PDF/A)
+* TXT (texte)
+* TEX (texte balisé)
+* HTML (texte balisé)
+* XML (texte balisé)
+* ODF (Open Document Formats)
+* RTF (propriétaire, mais plus universel que doc ou docx de MS Word)
+* EPUB (livrel)
+* SVG (image vectorielle)
+* PNG (image bitmap)
 
 ### Concevoir un plan de gestion de vos données de recherche
 
@@ -113,7 +130,7 @@ Prendre rendez-vous avec votre bibliothécaire disciplinaire à ce sujet.
 #### Imprimez les documents importants
 
   - Une photocopie imprimée sur du [papier non acide](https://fr.wikipedia.org/wiki/Papier_non_acide) peut durer au moins 40 ans (à l'abri de la lumière, de humidité, loin de tout plastique PVC, et sans colle)
-  - N'oubliez pas de sélectionner et d'imprimer vos feuilles de paie, documents d'assurance, photos de mariage, de naissance, vos poèmes de jeunesse, vos articles, et tout ce que vous avez rédigé et qui est important pour vous.
+  - N'oubliez pas de sélectionner et d'imprimer vos feuilles de paie, documents d'assurance, photos de mariage, de naissance, vos poèmes de jeunesse, vos articles, et tout ce que vous avez rédigé et qui a de la valeur pour vous.
   
 #### Entreprosage durable
 
@@ -130,6 +147,7 @@ Prendre rendez-vous avec votre bibliothécaire disciplinaire à ce sujet.
 ### Cette activité est en lien avec les activités de :
 - [Gestion d'identité et de profil en ligne](https://github.com/pmartinolli/TM-SchoProMa)
 - [eCockpit bureautique du chercheur](https://github.com/pmartinolli/TM-SchoCockpit)
+- [Thésaurus personnel pour collection de références bibliographiques](https://github.com/pmartinolli/TM-MyThesaurus)
 - Gestion de ses bases de connaissances (à venir)
 - Tenir un journal de bord de sa recherche (à venir)
 
@@ -146,9 +164,11 @@ Prendre rendez-vous avec votre bibliothécaire disciplinaire à ce sujet.
 
 * License / Licence : CC-BY
 
-* Used by / Utilisé par  : [Séminaire PLU6058 Seminar](http://guides.bib.umontreal.ca/cours/1-PLU6058)
+* Used by / Utilisé par  : [Séminaire PLU6058](http://guides.bib.umontreal.ca/cours/1-PLU6058)
 
-* Promoted / diffusé par : FBpro, [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6496418175603793920/) 
+* Promoted / diffusé par : FBpro, [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6496418175603793920/) <<
+
+* Thanks to / Remerciements : Philippe Deschamps
 
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
