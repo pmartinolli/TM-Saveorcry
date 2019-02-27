@@ -82,7 +82,7 @@ Best practices for backing up research documents
 
 Ne pas oublier d'écrire l'extension du fichier (ex: .docx, .pdf) et ne pas la masquer dans votre système d'exploitation.
 
-Choisir un nom qui traversera le temps et qui sera parlante.
+Choisir un nom qui traversera le temps et qui sera évocateur du contenu.
 
 ## Bonnes pratiques de conservation
 
@@ -90,8 +90,8 @@ Choisir un nom qui traversera le temps et qui sera parlante.
 
 Un format ouvert est un format de document : 
 
-- plus perenne, 
-- plus compatible et plus portable entre différents systèmes ou programmes.
+- plus pérenne, 
+- plus compatible entre différents systèmes ou programmes.
 
 Exemples : 
 
@@ -154,7 +154,7 @@ Prendre rendez-vous avec votre bibliothécaire disciplinaire à ce sujet.
 
 - Local à température constante
 - Peu humide
-- Sur l'avant dernière étagère du haut de votre bibliothèque
+- Sur l'avant-dernière étagère du haut de votre bibliothèque
 - Dans : 
   - une boîte en carton 
   - ou mieux dans une boite en plastique Coroplast (mais surtout pas en PVC)
