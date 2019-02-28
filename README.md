@@ -7,69 +7,69 @@ Best practices for backing up research documents
 
 ## Principes d'une bonne méthode de sauvegarde de documents
 
-### 1 - Grouper tous les fichiers importants de votre recherche dans un dossier maître unique
+### 1 - Groupez tous les fichiers importants de votre recherche dans un dossier maître
 
 #### Pourquoi ?
 
-- Tout se trouve dans un seul endroit. 
-- Facile à déplacer, à compresser et à repérer.
+- Tout se trouve dans un seul endroit ;
+- Facile à déplacer, à compresser et à repérer ; 
 - Stabilité de la position des dossiers et des fichiers sur votre ordinateur.
 
 #### Comment ?
 
-- Déposer le dossier maître dans le répertoire Documents de votre ordinateur (PC, Mac ou Linux).
-- [Déplacer](https://www.zotero.org/support/fr/zotero_data) votre bibliothèque Zotero dans un sous-dossier.
-- Déposer toutes vos données de recherche dans un sous-dossier (voire une arborescence de sous-dossiers) : images, données numériques, code source, tableaux, etc.
+1. Déposez le dossier maître dans le répertoire Documents de votre ordinateur (PC, Mac ou Linux).
+2. [Déplacez](https://www.zotero.org/support/fr/zotero_data) votre bibliothèque Zotero dans un sous-dossier du dossier maître.
+3. Déposez toutes vos données de recherche dans un sous-dossier du dossier maître (voire dans une arborescence de sous-dossiers) : images, données numériques, code source, tableaux, etc.
 
-### 2 - Faire des sauvegardes régulières de vos données dans un infonuage
+### 2 - Faites des sauvegardes régulières de vos données dans un infonuage
 
 #### Pourquoi ?
 
-- Éviter la perte de données dues à un incident (incendie, inondation, vol, choc, virus, corruption de fichier, etc)
-- Avancer dans ses recherches de manière assurée et avec moins de stress
-- S'occuper de vos données avec soin et méthode leur donne de la valeur.
+- Pour éviter la perte de données dues à un incident (incendie, inondation, vol, choc, virus, corruption de fichier, etc.) ;
+- Pour progresser dans votre recherche de manière assurée et avec moins de stress ;
+- Pour vous prendre soin de vos données et ainsi leur donner de la valeur.
 
 #### Comment ?
 
-- Accéder à votre espace de stockage [OneDrive UdeM](https://o365.umontreal.ca)
-- Créer un dossier nommé *Sauvegardes*
-- Verser une copie du dossier maître, le renommer avec la date du jour (sous la forme AAAAMMMJJ)
-- Faire cette opération une fois par semaine (se mettre une alerte de calendrier le vendredi après-midi par exemple).
+1. Accédez à votre espace de stockage [OneDrive UdeM](https://o365.umontreal.ca)
+2. Créez un dossier nommé *Sauvegardes*
+3. Versez une copie du dossier maître et renommez-la avec la date du jour (sous la forme AAAAMMMJJ)
+4. Faites cette opération une fois par semaine (mettez-vous une alarme de calendrier électronique, le vendredi après-midi par exemple).
 
-### 3 - Faire une sauvegarde de sécurité dans un 3ème endroit de temps en temps
+### 3 - Faites une sauvegarde de sécurité dans un 3ème endroit de temps en temps
 
 #### Pourquoi ?
 
-- Dans le cas où OneDrive rencontrerait un problème.
+- Dans le cas où OneDrive rencontre un problème.
 - Parce qu'il faudrait toujours avoir un plan B.
 
 #### Comment ?
 
-- Déposer une autre copie du dossier maître numéroté avec la date du jour dans :
+1. Déposez une autre copie du dossier maître numérotée avec la date du jour dans :
   - Un autre infonuage (Google Drive, Dropbox, etc.)
   - Une clé USB ou un disque externe que vous laissez dans votre laboratoire
   - Un serveur de fichier partagé de votre laboratoire
   - ... N'importe où mais pas chez vous, ni sur vous.
-- Faire cette opération une fois par trimestre ? une fois par mois ? (se mettre une alerte de calendrier).
+2. Faite cette opération une fois par trimestre ? une fois par mois ? (avec une alarme électronique).
 
-### 4 - Autres bonnes pratiques de sauvegarde
+### Autres astuces de stockage et de conservation de vos travaux
 
 #### Nouvelles copies de votre texte
 
 - Chaque fois que vous ouvrez votre texte pour le modifier, créez immédiatement une copie de ce texte avec la date du jour dans le nom du fichier.
 
-#### Conserver les anciennes copies
+#### Conservez les anciennes copies
 
-- Conserver toutes les anciennes copies des fichiers/dossiers que vous créez.
+- Conservez toutes les anciennes copies des fichiers/dossiers que vous créez.
 - S'il y a beaucoup de fichiers, vous pouvez les déplacer dans un sous-dossier Archives.
 
-#### Compresser
+#### Compressez
 
 - Vous pouvez aussi compresser tout le dossier maître dans un fichier ZIP (ou RAR) renommé avec la date du jour. 
-- Utilisez un logiciel plus avancé pour gérer certains problèmes de fichiers accentués ou de fichiers trop longs : [7-zip](https://www.7-zip.org/) ou [WinRAR](https://www.rarlab.com). L'avantage du format RAR est que si le fichier se corrompt, il est plus facile de récupérer le reste des fichiers compressés à l'intérieur. L'avantage du format ZIP c'est que c'est le plus populaire.
+- Utilisez un logiciel plus avancé pour gérer certains problèmes de fichiers accentués ou de fichiers trop longs : [7-zip](https://www.7-zip.org/) ou [WinRAR](https://www.rarlab.com). L'avantage du format RAR est que si le fichier se corrompt, il est plus facile de récupérer le reste des fichiers compressés à l'intérieur. L'avantage du format ZIP, c'est que c'est le plus populaire.
 - Compresser, c'est l'équivalent de mettre des choses dans des boîtes : les éléments dedans sont moins accessibles, mais ils sont rangés massivement tous ensemble au même endroit.
 
-#### Nommer les fichiers
+#### Nommez les fichiers
 
 - Sans espace
 - Sans caractères accentués comme é à ù ...
@@ -80,15 +80,13 @@ Best practices for backing up research documents
   - 0 1 2 ... 8 9
   - . _ -
 
-Ne pas oublier d'écrire l'extension du fichier (ex: .docx, .pdf) et ne pas la masquer dans votre système d'exploitation.
+N'oubliez pas d'écrire l'extension du fichier (ex: .docx, .pdf) et de ne pas la masquer dans votre système d'exploitation.
 
-Choisir un nom qui traversera le temps et qui sera évocateur du contenu.
+Choisissez un nom qui traversera le temps et qui sera évocateur du contenu.
 
-## Bonnes pratiques de conservation
+#### Préférez les formats de fichiers ouverts 
 
-### Choisir si vous adoptez des formats de fichiers ouverts (très recommandé)
-
-Un format ouvert est un format de document : 
+Un format de fichier ouvert est un format de document : 
 
 - plus pérenne, 
 - plus compatible entre différents systèmes ou programmes.
@@ -106,11 +104,11 @@ Exemples :
 * SVG (image vectorielle)
 * PNG (image bitmap)
 
-### Concevoir un plan de gestion de vos données de recherche
+#### Élaborez un plan de gestion de vos données de recherche
 
-Ce sont des [données issues](https://bib.umontreal.ca/gerer-diffuser/gestion-donnees-recherche) de l’observation, de l’expérimentation ou dérivées de sources existantes qui sont analysées en vue de produire ou de valider des résultats de recherche originaux.
+Les données de recherche sont des [données issues](https://bib.umontreal.ca/gerer-diffuser/gestion-donnees-recherche) de l’observation, de l’expérimentation ou dérivées de sources existantes qui sont analysées en vue de produire ou de valider des résultats de recherche originaux. De plus en plus d'organismes de financenement demandent à déposer les données de recherche en libre accès.
 
-Prendre rendez-vous avec votre bibliothécaire disciplinaire pour en savoir plus à ce sujet.
+Prenez rendez-vous avec votre bibliothécaire disciplinaire pour en savoir plus à ce sujet.
 
 ### Si c'est important : imprimez-le et conservez-le
 
@@ -136,7 +134,7 @@ Prendre rendez-vous avec votre bibliothécaire disciplinaire pour en savoir plus
 
 ##### Exemple de plan de sauvegarde
 
-* Identifier ce que je veux archiver :
+* Identifiez ce que je veux archiver :
 
 1. Ce que j'ai créé (texte, images, films montés, etc.) et qui entraînerait un choc émotionnel intense en cas de perte.
 2. Mes documents administratifs numérisés (taxes, paies,...). Les plus importants (paies, contrats, actes notariés,...) doivent aussi être imprimés.
@@ -144,24 +142,24 @@ Prendre rendez-vous avec votre bibliothécaire disciplinaire pour en savoir plus
 4. Ce que j'ai capturé ou téléchargé (photos, vidéos, bookmarks, références Zotero, captures Evernote, ebooks,...).
 5. Mes listes de musiques, de films, de livres,... (la plupart sont retrouvables facilement, alors une liste devrait suffire).
 
-* Sélectionner les plus importants/ les meilleurs
+* Sélectionnez les plus importants/ les meilleurs
 
-* Organiser la sélection
+* Organisez la sélection
 
-* Faire des copies sur des supports multiples, pérennes (papier si possible), à différents endroits
+* Faites des copies sur des supports multiples, pérennes (papier si possible), à différents endroits
 
-* Gérer le contenu de temps en temps (vérifier)
+* Gérez le contenu de temps en temps (vérifiez)
 
-#### Entreprosage durable
+#### Entreprosez durablement
 
-- Local à température constante
-- Peu humide
-- Sur l'avant-dernière étagère du haut de votre bibliothèque
+- Dans un local à température constante ;
+- Peu humide ;
+- Sur l'avant-dernière étagère du haut de votre bibliothèque ;
 - Dans : 
-  - une boîte en carton 
-  - ou mieux dans une boite en plastique Coroplast (mais surtout pas en PVC)
-  - ou dans des grandes pochettes Ziplock sans PVC
-- Sachets de gel de silice (pour enlever l'humidité dans des contenants fermés)
+  - une boîte en carton ;
+  - ou mieux dans une boite en plastique Coroplast (mais surtout pas en PVC) ;
+  - ou dans des grandes pochettes Ziplock sans PVC ;
+- Astuce pour enlever l'humidité dans des contenants fermés : sachets de gel de silice.
 
 
 ### Cette activité est en lien avec les activités de :
@@ -182,14 +180,13 @@ data is portable » (Phil Liblin, CEO Evernote)
 
 
 
-
 ## Métadonnées
 
 * Author / Auteur : Pascal Martinolli
 
 * Created / Créé le : 2019-01-04
 
-* Most recent version / Dernière version : 1.1
+* Most recent version / Dernière version : 1.3
 
 * Original format / format de fichier : MS Publisher 2016 (Proprietary/Propriétaire), Libre Office 5 Draw (Open/ouvert)
 
