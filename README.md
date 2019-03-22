@@ -202,6 +202,8 @@ data is portable » (Phil Liblin, CEO Evernote)
 
 ## Bibliographie
 
+Beheim, Bret. « Marie Kondo Meme. This one sparks joy ». 2019. Twitter. https://twitter.com/babeheim/status/1105893916803514369
+
 « Care, Handling and Storage of Works on Paper - Collections Care ». Web page. Library of Congress. Consulté le 4 janvier 2019. http://www.loc.gov/preservation/care/paper.html.
 
 « Comment puis-je améliorer les conditions de conservation de mes documents? » Archives Passe-Mémoire , 2010. http://www.archivespassememoire.org/index.php?option=com_content&view=article&id=81&Itemid=60.
