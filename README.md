@@ -192,9 +192,9 @@ data is portable » (Phil Liblin, CEO Evernote)
 
 * License / Licence : CC-BY
 
-* Used by / Utilisé par  : [Séminaire PLU6058](http://guides.bib.umontreal.ca/cours/1-PLU6058)
+* Used by / Utilisé par  : [Séminaire PLU6058](http://guides.bib.umontreal.ca/cours/1-PLU6058); le guide guide méthodologique destiné aux étudiants de cycles supérieurs en histoire de l'UdeM.
 
-* Promoted / diffusé par : FBpro, [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6496418175603793920/) <<
+* Promoted / diffusé par : FBpro, [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6496418175603793920/)
 
 * Thanks to / Remerciements : Philippe Deschamps, Marie-Ève Ménard
 
